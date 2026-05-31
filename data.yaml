@@ -385,7 +385,7 @@
   Themes: World restriction, ‘spatial tenses’.
   Predilog: ''
   Xorlo Lojban: .i loi xamsi cu glare bu'u lo tropika be ri
-  Toaq Delta: ''
+  Toaq Delta: 'He loq ké nao po náomı, ꝡë tı hóa jı́aqheoq.'
   New Ithkuil: Hlantňú-waibwëi wiaḑhó.
   Loglan: ''
   Xextan: i kal o del lunxut pe bolxuk let.
@@ -454,7 +454,7 @@
   Themes: Kinds, generalization, aphorism.
   Predilog: ''
   Xorlo Lojban: .i lo'e cribe cu jai ckape
-  Toaq Delta: ''
+  Toaq Delta: 'He hıaole báq hako.'
   New Ithkuil: 'Wiaptälyó wuorhöřna. '
   Loglan: ''
   Xextan: i pel lo bálu.
@@ -814,7 +814,8 @@
   Context: ''
   Predilog: ''
   Xorlo Lojban: .i do djica lo du'u do pinxe su'o djacu ji su'o plise jisra
-  Toaq Delta: ''
+  Toaq Delta: |-
+    Shao pıe súq báq nao rı́ báq ze beshàmu?
   New Ithkuil: Mmoëxëidřa áţra’ru wainžö’kcanëi utxulülzéi suya’i ?
   Loglan: ''
   Xextan: ja vol vo txi e xut zo e zutlik póne?
@@ -1250,7 +1251,7 @@
   Themes: Sound-based name, quoting a written symbol.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Laı shú 李 ké chua lô mı Lı.'
   New Ithkuil: Hlau Li adnilëi wuňtyó hi 李.
   Loglan: ''
   Xextan: ''
@@ -1464,8 +1465,8 @@
   Japanese: ''
   Mandarin: 我們以連成一鏈的方式將物品遞給彼此。
 - English: >-
-    The mother and her offsprings are calling at each other ⸨she call them and
-    they call her⸩. / The mother is calling its offsprings and vice versa.
+    The mother and her offsprings are calling at each other ⸨she calls them and
+    they call her⸩. / The mother is calling her offsprings and vice versa.
   Context: ''
   Themes: Subtypes of reciprocity.
   Predilog: ''
@@ -1621,7 +1622,7 @@
   Themes: Expressing motive for a speech act.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Poaja súq kı́ao bâ. Shê, ꝡä bu nuhao, nä sho nıe báq gushoaı háo.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -1669,7 +1670,7 @@
   Themes: Speech act, semantic issue of sayig ⟪do you want…?⟫ when the wanting would likely only occur as a consequence of hearing the offer.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Ma ao ıujaı súq, ꝡá salùaq gâq chéq ı́me?'
   New Ithkuil: Ëilzaléu švéjiha lë’i?
   Loglan: ''
   Xextan: ''
@@ -1715,7 +1716,9 @@
   Themes: Content question, age of people or animals.
   Predilog: ''
   Xorlo Lojban: .i ma jbetei do
-  Toaq Delta: ''
+  Toaq Delta: |-
+    Jıu pêa hı́ súq?
+    Geonhe hî súq?
   New Ithkuil: Amtilasvéi sei?
   Loglan: ''
   Xextan: ''
@@ -1738,7 +1741,9 @@
   Themes: Age of people or animals, range of measurement uncertainty.
   Predilog: ''
   Xorlo Lojban: .i mi se jbetei lo nanca be li re vo pi xo'e
-  Toaq Delta: ''
+  Toaq Delta: |-
+    Jıu pêa gúheı jo nıaq jı́.
+    Geo jı́ nhê gúheı jo nıaq.
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -2472,7 +2477,7 @@
   Xorlo Lojban: |-
     .i la poi banli .aléksandros. pu bersa la poi re moi pe la .makedoníias. ge'u .pílipos.
     .i la se cmene be zo .aléksandros. be'o poi banli pu bersa la se cmene be zo .pílipos. be'o poi re moi pe la .makedoníias.
-  Toaq Delta: ''
+  Toaq Delta: 'Fu só mı Alecaqdoro Suoı só Fılıpu guko po Másedoq.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
