@@ -220,7 +220,7 @@
   Themes: Event ordinality.
   Predilog: ''
   Xorlo Lojban: .i ca lo cabdei re re'u jaurcarvi
-  Toaq Delta: ''
+  Toaq Delta: 'Naı faq ké guko tûq ẹruqshua po nı́chaq.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -243,7 +243,7 @@
   Themes: Event cardinality.
   Predilog: ''
   Xorlo Lojban: .i pu ca lo prulamdei re rei jaurcarvi
-  Toaq Delta: ''
+  Toaq Delta: 'Faq râo púchaq gú ẹruqshua.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -498,7 +498,7 @@
   Themes: Habitual expressions.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Duq pua koı jí.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -544,7 +544,7 @@
   Themes: Collective predicates, ‘under’ a tree.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Pu kueq íme nûao guq sá gıeıme.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -590,7 +590,9 @@
   Themes: Causatives.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: |-
+    Tua hıaı súq jı́.
+    Hıaı jı́ kûı pó súq.
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -2106,12 +2108,14 @@
   Ukrainian: ''
   Japanese: ''
   Mandarin: 我二十四五歲了。
-- English: This one ⸨which I am pointing to⸩ weights between 1.25 and 1.50 kg.
+- English: This one ⸨which I am pointing to⸩ weighs between 1.25 and 1.50 kg.
   Context: ''
   Themes: Range of measurement uncertainty.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: |-
+    Tuoq ní nhê fé pẹojo kılo shéu shı́ roı shı pẹogu kılo.
+    Tuoq nı́ nhê 1.25 kılo shéu 1.5 kılo.
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -2351,7 +2355,9 @@
   Themes: ''
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: |-
+    Sacha lôma ké hupı suaı tıaq ké asu maqgu.
+    Loma ké hupı suaı tıaq nûao gâo ké asu maqgu sâcha hó.
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -2537,7 +2543,7 @@
   Themes: Frame-setting, evidentiality, using speech act verbs descriptively and not performatively.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Coq bídeo sá, ë hıo jı́ súq, kéo bu gaı súq jı́.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -2797,7 +2803,7 @@
   Themes: Tetravalent verb.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Neqluaq úmo pô fé euro pô, ꝡä taı hao nhána hom.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
