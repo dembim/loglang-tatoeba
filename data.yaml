@@ -521,7 +521,7 @@
   Themes: Spatial adpositions.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Pu koı ı́me lı̂eı hı́u.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -567,7 +567,7 @@
   Themes: Relative anatomical directions.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Sıaq jı́ súq.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -1162,7 +1162,7 @@
   Themes: Donkey anaphora on an interrogative pronoun.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Se hí tıem, é koe hao tú mea súna sá tıaı móq? Gaı étu mea súna hı́ nıe mâq?'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -1621,7 +1621,9 @@
   Themes: Appositive content clauses (i.e. Mermaid clauses).
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: |-
+    Ꝡá mıq sao jı́aqtu, nä daısıu hóa kuısıo.
+    Daısıu ké kuısıo, ꝡä mıq sao jı́aqtu.
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -1818,7 +1820,7 @@
   Themes: Subtypes of reciprocity.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Rumu túq safù ké roaq hô, lá shoı já côm já.'
   New Ithkuil: Yaḑxihá wammulwü weimmë’i.
   Loglan: ''
   Xextan: ''
@@ -2230,7 +2232,9 @@
   Themes: Expressing locus of contact.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: |-
+    Reaq ásu nûm ké ruka.
+    Reaq ásu jôı, ꝡá fuo ké ruka déaq.
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -2474,7 +2478,7 @@
   Themes: ''
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Sahu, ꝡé naı chum ruaq jı́ hóa.'
   New Ithkuil: Aḑnävêi thëiwa.
   Loglan: ''
   Xextan: ''
@@ -2497,7 +2501,7 @@
   Themes: ''
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Keoı jı́ nháo nhôe mı́ IRC.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -2520,7 +2524,7 @@
   Themes: ⟪through⟫ without movement.
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Nıe méı nı́ chuao.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ken gevít to xan fo tu ziddil.
@@ -2920,7 +2924,7 @@
   Themes: ''
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Fuo hóe séoqrea.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
@@ -2943,7 +2947,7 @@
   Themes: ''
   Predilog: ''
   Xorlo Lojban: ''
-  Toaq Delta: ''
+  Toaq Delta: 'Soq shoa ké kụchu lô hıu.'
   New Ithkuil: ''
   Loglan: ''
   Xextan: ''
